@@ -9,6 +9,12 @@ public class Dummy {
 			System.out.println("---GitbaseTest---");
 			
 		}
+		@Test()
+		public void SecondMessage()
+		{
+			System.out.println("---GitbaseTest---");
+			
+		}
 	}
 
 
